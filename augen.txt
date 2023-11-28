@@ -1,0 +1,11 @@
+Spinnen: 16
+Ameisen: 4
+Schmetterlinge: 400
+Grillen: 6
+Tausendfüssler: 4
+Skorpione: 8
+Krebse: 4
+Quallen: 0
+Elefanten: 2
+Giraffen: 2
+Pandas: 2
